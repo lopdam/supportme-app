@@ -2,15 +2,13 @@
 
 SupportMe Mobile App, Make with Flutter, Hueca Location and Registrer
 
-## Getting Started
+# Api
+## Conect api before
+[supportme-api](https://github.com/lopdam/supportme-api)
 
-This project is a starting point for a Flutter application.
+# Images
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![img1](./github/1.gif)
+![img2](./github/2.gif)
+![img3](./github/3.gif)
+![img4](./github/4.gif)
